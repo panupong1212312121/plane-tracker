@@ -1,0 +1,842 @@
+﻿{
+    "version":  1,
+    "skills":  {
+                   "ask-matt":  {
+                                    "source":  "mattpocock/skills",
+                                    "sourceType":  "github",
+                                    "skillPath":  "skills/engineering/ask-matt/SKILL.md",
+                                    "computedHash":  "b25d86fb36b1d294eeead5d7db529f86135f9671f2afcd607579a63bb2213769",
+                                    "importHash":  "e5404aef8525ca0c8fc76692567a38dfdd5d0cc1a9f8d47c02c18f29f60d92a6"
+                                },
+                   "code-review":  {
+                                       "source":  "mattpocock/skills",
+                                       "sourceType":  "github",
+                                       "skillPath":  "skills/engineering/code-review/SKILL.md",
+                                       "computedHash":  "47f4e52c21694def9c7c11cbfbf891ca35eac7a93e395797515be3c8a409ae50",
+                                       "importHash":  "b4f17857c85ca60af1df7d0b623dd03c2a48419f6123e714f3d9748ca744a1bf"
+                                   },
+                   "codebase-design":  {
+                                           "source":  "mattpocock/skills",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/engineering/codebase-design/SKILL.md",
+                                           "computedHash":  "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
+                                           "importHash":  "caea3cb8a8281ff829fd1a2b985044e77601b62f301adf43f689ccfc74c15f6f"
+                                       },
+                   "diagnosing-bugs":  {
+                                           "source":  "mattpocock/skills",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/engineering/diagnosing-bugs/SKILL.md",
+                                           "computedHash":  "77f3cf31bc99b2f49af943222526531fcc9fc41d047626d3640e875e85af3e84",
+                                           "importHash":  "dcaaa3eb81195329f65f27574d9a67dc776160dd2e4d7798d1afb1e4a5f3695a"
+                                       },
+                   "domain-modeling":  {
+                                           "source":  "mattpocock/skills",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/engineering/domain-modeling/SKILL.md",
+                                           "computedHash":  "327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e",
+                                           "importHash":  "336547f3ff285e822fc70b69b170dc58bceef9c8ed5fad18de0046287d6be837"
+                                       },
+                   "grill-me":  {
+                                    "source":  "mattpocock/skills",
+                                    "sourceType":  "github",
+                                    "skillPath":  "skills/productivity/grill-me/SKILL.md",
+                                    "computedHash":  "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+                                    "importHash":  "5e0c683385eafd83f106ac6c9d67dfbbfe5aa4b3fe65aad114eb1055a99c818f"
+                                },
+                   "grill-with-docs":  {
+                                           "source":  "mattpocock/skills",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/engineering/grill-with-docs/SKILL.md",
+                                           "computedHash":  "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+                                           "importHash":  "a610223c9796f755b603f15ec114849a4b38b9ba3006acfa9bdf3cc56dd44dad"
+                                       },
+                   "grilling":  {
+                                    "source":  "mattpocock/skills",
+                                    "sourceType":  "github",
+                                    "skillPath":  "skills/productivity/grilling/SKILL.md",
+                                    "computedHash":  "10ff989e7498b23b5acb49d5048f11dcd906757d2f79c5cdf8a00001381296f2",
+                                    "importHash":  "4fa026e5979770347b3357ff5139e1e41d21c3a9f7335e9cd2811cb5b8d32f2f"
+                                },
+                   "handoff":  {
+                                   "source":  "mattpocock/skills",
+                                   "sourceType":  "github",
+                                   "skillPath":  "skills/productivity/handoff/SKILL.md",
+                                   "computedHash":  "7c62de979fdc7ac32fb5ddb2146156c917f80ee070d30fadc9d40343c4b6ed25",
+                                   "importHash":  "9ea2a5de5ca2d717f913356de982fdc4fe27d28a300c16598cd43a4865491008"
+                               },
+                   "implement":  {
+                                     "source":  "mattpocock/skills",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/engineering/implement/SKILL.md",
+                                     "computedHash":  "6d3fd9e83b8f36e5213854779db49b256a457a7ebb4a503e53fa7dcff696adc3",
+                                     "importHash":  "130cac2d72bfde8cd526bf3b754211e2fe00e84bc4d9f9c56f749b9541a3afad"
+                                 },
+                   "improve-codebase-architecture":  {
+                                                         "source":  "mattpocock/skills",
+                                                         "sourceType":  "github",
+                                                         "skillPath":  "skills/engineering/improve-codebase-architecture/SKILL.md",
+                                                         "computedHash":  "d1ac25511a936ff4250a48dbcefda363837d6bb9321b3cba73df99fa37270a75",
+                                                         "importHash":  "016f12709bff30a27419e8add978a9be70f5ca1fb6738b3be6793038e0aba631"
+                                                     },
+                   "prototype":  {
+                                     "source":  "mattpocock/skills",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/engineering/prototype/SKILL.md",
+                                     "computedHash":  "714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
+                                     "importHash":  "62979fe039ef64407b258f8824db41b9185f788638747df803032df4153c2aae"
+                                 },
+                   "research":  {
+                                    "source":  "mattpocock/skills",
+                                    "sourceType":  "github",
+                                    "skillPath":  "skills/engineering/research/SKILL.md",
+                                    "computedHash":  "985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
+                                    "importHash":  "2c8b768d5f0309eaea9f92ef740101e813645b39aef88fb82733a52eae23dc0b"
+                                },
+                   "resolving-merge-conflicts":  {
+                                                     "source":  "mattpocock/skills",
+                                                     "sourceType":  "github",
+                                                     "skillPath":  "skills/engineering/resolving-merge-conflicts/SKILL.md",
+                                                     "computedHash":  "9d8114f8ef0b31f535a265fc05c364bd8cf2e2895a830040e06c22acb11f54b0",
+                                                     "importHash":  "436698459190d8e9f03dc32ada08401b56e352fb6a19bf71a2227fad8b80d98f"
+                                                 },
+                   "setup-matt-pocock-skills":  {
+                                                    "source":  "mattpocock/skills",
+                                                    "sourceType":  "github",
+                                                    "skillPath":  "skills/engineering/setup-matt-pocock-skills/SKILL.md",
+                                                    "computedHash":  "2bcd89e97777cdb705914424e39c97d5db524c8eb4eafac8120778a07774f0ec",
+                                                    "importHash":  "a45163cba56f72f5f224c46557c047d51547147a29e383e5a769ec39eecd1188"
+                                                },
+                   "tdd":  {
+                               "source":  "mattpocock/skills",
+                               "sourceType":  "github",
+                               "skillPath":  "skills/engineering/tdd/SKILL.md",
+                               "computedHash":  "cb01f66bebfaa25fa1f88e6b7e769cd9fd9f35b1120b8563749820738814c927",
+                               "importHash":  "c1ed8cd854c64d4d226097255d3fa662dae4a758a1462fadd63cc10e413d88d7"
+                           },
+                   "teach":  {
+                                 "source":  "mattpocock/skills",
+                                 "sourceType":  "github",
+                                 "skillPath":  "skills/productivity/teach/SKILL.md",
+                                 "computedHash":  "a32df9dcdfc0c4fdc1c98e1ed3940c5f56b84c1aa90ff60346f32b8b53915b43",
+                                 "importHash":  "d5f74fa9a34961cf4df339019f7cd1ebf84163cf8b789829be26342e5ceba5a1"
+                             },
+                   "to-questionnaire":  {
+                                            "source":  "mattpocock/skills",
+                                            "sourceType":  "github",
+                                            "skillPath":  "skills/productivity/to-questionnaire/SKILL.md",
+                                            "computedHash":  "b5eb929842ee0e93d867c5e906d183d350f2f2d149eaeaa86967d94d8eda1d3b",
+                                            "importHash":  "e2cb00bfeb4243f1384bf7e106185ccb69fd7d45ff6a3b04bec4102f505aba31"
+                                        },
+                   "to-spec":  {
+                                   "source":  "mattpocock/skills",
+                                   "sourceType":  "github",
+                                   "skillPath":  "skills/engineering/to-spec/SKILL.md",
+                                   "computedHash":  "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
+                                   "importHash":  "0ee8caf20fc7df94db53e76f42588fb01eee88c6f8dc97e7a3a0565be8978e74"
+                               },
+                   "to-tickets":  {
+                                      "source":  "mattpocock/skills",
+                                      "sourceType":  "github",
+                                      "skillPath":  "skills/engineering/to-tickets/SKILL.md",
+                                      "computedHash":  "5c9fba69845c2519b9b35b9af42ae5142c21f8ca15ac2123dc2722002c8058ae",
+                                      "importHash":  "4aba8639f46b55ede011866f83e9e87ae10482b72c14848389e5801eba0b37bf"
+                                  },
+                   "triage":  {
+                                  "source":  "mattpocock/skills",
+                                  "sourceType":  "github",
+                                  "skillPath":  "skills/engineering/triage/SKILL.md",
+                                  "computedHash":  "623a2ed692bdc77d2090e2a3dea3b627dd722ad3bbaca0be83aada75292c8fc4",
+                                  "importHash":  "363ca4f1b97ca5227d41d3973178ab301d7c498ba41b466dfe30b6163f6d72b5"
+                              },
+                   "wait-what":  {
+                                     "source":  "mattpocock/skills",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/productivity/wait-what/SKILL.md",
+                                     "computedHash":  "e3f44e3ccbc0e7b62f20ba70b295fc9c9f4aa3f96c77168faee1c71bacbf4215",
+                                     "importHash":  "179a857fabd08c894e8e5b30baa7488147760ee1d58696ebd24bd4f6ead21699"
+                                 },
+                   "wayfinder":  {
+                                     "source":  "mattpocock/skills",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/engineering/wayfinder/SKILL.md",
+                                     "computedHash":  "fee6e1d0c50f0e736b4ef8a599060c959afae904c9a97d82c97f049fcc3aa0f1",
+                                     "importHash":  "f53b17850d8d4d68e8b861cfc7de69580335851d7fe7bc3acdf37505f46c9940"
+                                 },
+                   "wizard":  {
+                                  "source":  "mattpocock/skills",
+                                  "sourceType":  "github",
+                                  "skillPath":  "skills/engineering/wizard/SKILL.md",
+                                  "computedHash":  "bdf31d48211ea559878f95a4f344aeabf8d85897488ba564382bab0b000daac1",
+                                  "importHash":  "6b98bd36db34eb5584d937b745e6e68a317afa0807a426fe8717ab196242ae70"
+                              },
+                   "writing-for-agents":  {
+                                              "source":  "mattpocock/skills",
+                                              "sourceType":  "github",
+                                              "skillPath":  "skills/productivity/writing-for-agents/SKILL.md",
+                                              "computedHash":  "551adca942227b44192edba88acd4e8db911f0121ce58ad16944ccf6a896a74a",
+                                              "importHash":  "5eb59b9f6866c2b8c454feadb4a963de8c279d8d34fc351093193fdcd1822e9c"
+                                          },
+                   "skill-creator":  {
+                                         "source":  "anthropics/skills",
+                                         "sourceType":  "github",
+                                         "skillPath":  "skills/skill-creator/SKILL.md",
+                                         "computedHash":  "dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf",
+                                         "importHash":  "e030e7685e26283b4a76f5202aa3ae8516fb41dde799be5ae8ea6393ec009fe9"
+                                     },
+                   "skill-doctor":  {
+                                        "source":  "warpdotdev/common-skills",
+                                        "sourceType":  "github",
+                                        "skillPath":  ".agents/skills/skill-doctor/SKILL.md",
+                                        "computedHash":  "9ded60ae72b5227827785edd4914faf5503258f07caf7f764942e050e98dfe44",
+                                        "importHash":  "d7dbaedbb630118f8089be4d9e4606c02f4b6270fee7de5e5686421c3b28b288"
+                                    },
+                   "investigate-first":  {
+                                             "source":  "JuliusBrussee/caveman",
+                                             "sourceType":  "github",
+                                             "skillPath":  "skills/investigate-first/SKILL.md",
+                                             "computedHash":  "7cc19dd2fc457eb20d65c44dee4d1b72dcdfcd1617182f5bff666700f2a055d8"
+                                         },
+                   "lean-build":  {
+                                      "source":  "JuliusBrussee/caveman",
+                                      "sourceType":  "github",
+                                      "skillPath":  "skills/lean-build/SKILL.md",
+                                      "computedHash":  "4d498073c6312858b220e9a04b7456c2485c734edb077f6bb17d88a7ed96ad7a"
+                                  },
+                   "migration":  {
+                                     "source":  "JuliusBrussee/caveman",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/migration/SKILL.md",
+                                     "computedHash":  "fe7cf96a58b0521130fbb886dab2a326869d6ed0001e0306fd244014ba7a9662"
+                                 },
+                   "safe-refactor":  {
+                                         "source":  "JuliusBrussee/caveman",
+                                         "sourceType":  "github",
+                                         "skillPath":  "skills/safe-refactor/SKILL.md",
+                                         "computedHash":  "cd52867aba26aafb53379d43068cef9b2feca3a3fff850f877a99f710ccd02c0"
+                                     },
+                   "surgical-patch":  {
+                                          "source":  "JuliusBrussee/caveman",
+                                          "sourceType":  "github",
+                                          "skillPath":  "skills/surgical-patch/SKILL.md",
+                                          "computedHash":  "81ea9f7b51409970099e04b98875dd65806cd35472f9a774b847030328187387"
+                                      },
+                   "verify-and-stop":  {
+                                           "source":  "JuliusBrussee/caveman",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/verify-and-stop/SKILL.md",
+                                           "computedHash":  "3d5599f49771b864eba94f27f456fda295c48c1a37fa6ba2f65fdcb13cc32acb"
+                                       },
+                   "generate-test-cases":  {
+                                               "source":  "mavka-ai/unit-tests-skills",
+                                               "sourceType":  "github",
+                                               "skillPath":  "skills/generate-test-cases/SKILL.md",
+                                               "computedHash":  "8f45e453224e48e258a34434aee041f632f9de65c2fba4cd630d2a994dbe0b8d",
+                                               "importHash":  "ccf223c064b477a8c53018fa87badba579b0cf68c69460c521f8172b2cfa22af"
+                                           },
+                   "generate-tests":  {
+                                          "source":  "mavka-ai/unit-tests-skills",
+                                          "sourceType":  "github",
+                                          "skillPath":  "skills/generate-tests/SKILL.md",
+                                          "computedHash":  "60023dceb3a566776dc40584e1d746267f93500d1e81df41824d5e56b3893df9",
+                                          "importHash":  "9b20045de5df7ce6ffcc425d550154af78c11f907b71fb273d178bccf3184146"
+                                      },
+                   "pict-test-designer":  {
+                                              "source":  "omkamal/pypict-claude-skill",
+                                              "sourceType":  "github",
+                                              "skillPath":  "SKILL.md",
+                                              "computedHash":  "a37b38931ceba392542d2a5736afd1ad8d847d511a5703ad7c1814934a584e87",
+                                              "importHash":  "8dc13c3355e8efc432178fa7bf6689d644f74150563b5436c8d1badea8bb52f1"
+                                          },
+                   "design-md":  {
+                                     "source":  "local (built from getdesign.md DESIGN.md methodology)",
+                                     "sourceType":  "local",
+                                     "skillPath":  "skills/design-md/SKILL.md",
+                                     "computedHash":  "c46345396629b386e905f8ec47e0996abd9f52bb8bd89e148de5770fc3dd26c2",
+                                     "importHash":  "d9db769311eb08f1319f99cc9730ab74ec1733a44c83594c8c7ebe3afd3c3940"
+                                 },
+                   "arxiv-deep-researcher":  {
+                                                 "source":  "local (user-provided: Downloads/arxiv-deep-researcher)",
+                                                 "sourceType":  "local",
+                                                 "skillPath":  "skills/arxiv-deep-researcher/SKILL.md",
+                                                 "computedHash":  "89214eef937fef73ffebf9aa548409a233dc3477786741505bd974d6fc33dcb7"
+                                             },
+                   "diagram-design":  {
+                                          "source":  "cathrynlavery/diagram-design",
+                                          "sourceType":  "github",
+                                          "skillPath":  "skills/diagram-design/SKILL.md",
+                                          "computedHash":  "3643b6558ab5a935ceacbaffe34c1dfa4ca3572f6481dcf3dea1091a3e6141a9",
+                                          "importHash":  "1db23047976476f8af88c71d91d3f85a8e2d2ef58d15315431cc2f264b16b294"
+                                      },
+                   "archify":  {
+                                   "source":  "tt-a1i/archify",
+                                   "sourceType":  "github",
+                                   "skillPath":  "archify/SKILL.md",
+                                   "computedHash":  "10094272d6d1b4ad0f2c2e0880cb646fe4991454a2dc3d854aecb27e7407ee1f"
+                               },
+                   "codebase-diagram":  {
+                                            "source":  "local (built to bridge codebase exploration to archify/diagram-design renderers)",
+                                            "sourceType":  "local",
+                                            "skillPath":  "skills/codebase-diagram/SKILL.md",
+                                            "computedHash":  "cfe439542a565b0756bef20736fbc99944938a09f27330f878adc5c6850807cc",
+                                            "importHash":  "c37c49a859316cb044430328ee6c2869eb813a9a639bd8db8fa33daa3c7bb863"
+                                        },
+                   "ship-it":  {
+                                   "source":  "local (built: pre-flight → LOCAL production run (default) → deploy+verify-live on explicit go live, gated phases)",
+                                   "sourceType":  "local",
+                                   "skillPath":  "skills/ship-it/SKILL.md",
+                                   "computedHash":  "289edb0354372a5cb47a654fc25938971758fde1a013a8826c5e4ea9d96acf5c",
+                                   "importHash":  "710cb0f41239cea5a3b9caf22e88f102ee67c50c30a83d5f5a647b1ab1ed96cd"
+                               },
+                   "security-audit":  {
+                                          "source":  "cloudflare/security-audit-skill",
+                                          "sourceType":  "github",
+                                          "skillPath":  "skills/security-audit/SKILL.md",
+                                          "computedHash":  "5e3e96a1e438d8f35fef0a1e38f02d4f00e2bdf910401b7dfe00e6779c6dac85",
+                                          "importHash":  "2a68ab5531dfccedac2b054e0814f2b6517daae9887b3ee40afcc5d8a7063c3a"
+                                      },
+                   "owasp-security":  {
+                                          "source":  "agamm/claude-code-owasp",
+                                          "sourceType":  "github",
+                                          "skillPath":  ".claude/skills/owasp-security/SKILL.md",
+                                          "computedHash":  "7c7ee6971d977b301585d03ea570a98621f4eebc8bb63b08287ca83b50f6be80",
+                                          "importHash":  "2ade5594d15f8b01f45a3a7f67ebaac643b545090c22d50f3f4cadd7fd938542"
+                                      },
+                   "security-review":  {
+                                           "source":  "github/awesome-copilot",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/security-review/SKILL.md",
+                                           "computedHash":  "002392d88637b89e4cbc409a0531834970937f3b57c0b448a17e04b5ca6d356c"
+                                       },
+                   "harden":  {
+                                  "source":  "local (built: BaaS/deployed-or-local posture + dynamic access-denial proof; complements the code scanners)",
+                                  "sourceType":  "local",
+                                  "skillPath":  "skills/harden/SKILL.md",
+                                  "computedHash":  "af92da99bc5b79b012ff20d8302463af90b005e210458f2c7fea8c9c6001d953",
+                                  "importHash":  "9dc96e0c001f19998967b37f1348b322d5ffc81a4e81a44ce5f818698dea146f"
+                              },
+                   "pm-planner":  {
+                                      "source":  "local (built: PM timeline draft → plane-plan.md → Plane MCP materialize on explicit trigger)",
+                                      "sourceType":  "local",
+                                      "skillPath":  "skills/pm-planner/SKILL.md",
+                                      "computedHash":  "8f32827b56bf67df92d5dfcf4aa5bae27e43d6940451a552ae0bb53a1263e60b",
+                                      "importHash":  "318a7c1d2bd109b715dcee088b771ae4b12b3bf49473f6a8d0e4dedefb5aa99e"
+                                  },
+                   "frontend-design":  {
+                                           "source":  "local (built: build-time design craft — direction, anti-slop, bounded browser verify; from nextlevelbuilder/ui-ux-pro-max-skill + pbakaus/impeccable + anthropics/claude-code frontend-design concepts) (extended 2026-09-21 v1.1: hallmark structural-variety + pre-emit slop self-critique, impeccable detect CLI — .scratch/skill-candidates/anti-slop-design-delta.md)",
+                                           "sourceType":  "local",
+                                           "skillPath":  "skills/frontend-design/SKILL.md",
+                                           "computedHash":  "647c1cf2974aa3af543f7e5b8f9a18bb231d81759838c14166df6c3bf068b73a",
+                                           "importHash":  "5f892769b0857fb8de8422816ca3c318b7dd0db76f7a13e142a287b2d1669850"
+                                       },
+                   "enablement-kit":  {
+                                          "source":  "local (built: app adoption pack director — routes to frontend-slides/manim-video/archify/codebase-diagram/mock-data, real screenshot capture, verified cross-links, caveman infographic-first style)",
+                                          "sourceType":  "local",
+                                          "skillPath":  "skills/enablement-kit/SKILL.md",
+                                          "computedHash":  "4be15b5acd3b9bbf745721533ae90786b5e3956e934cfa6fd45bb931b4c55468",
+                                          "importHash":  "9163802018b6654bb9304f9024644e665025e9accb0bfee069fbf1cbb1f5b0a5"
+                                      },
+                   "fastmcp-server":  {
+                                          "source":  "local (built: app → FastMCP MCP server — tool table from evidence, thin wrappers, fastmcp CLI verification; client-verify pattern from PrefectHQ/fastmcp skills/fastmcp-client-cli)",
+                                          "sourceType":  "local",
+                                          "skillPath":  "skills/fastmcp-server/SKILL.md",
+                                          "computedHash":  "9aa88369db2906fe673b7a689628075f1a15876eec10c2a0c7220d20475bb242",
+                                          "importHash":  "c8e05dd157657454249ce8c48911bbb44ebe813240265fdcecf2dee52e2bead3"
+                                      },
+                   "frontend-slides":  {
+                                           "source":  "local (built: content → single-file HTML presentation, 16:9 fixed stage; from zarazhangrui/frontend-slides + ryanbbrown/revealjs-skill concepts)",
+                                           "sourceType":  "local",
+                                           "skillPath":  "skills/frontend-slides/SKILL.md",
+                                           "computedHash":  "5bc27e318f5b7f70a8400edb45ce5ad88a888a59c10f79114665cb49d572dbc3",
+                                           "importHash":  "ea1b98ead3cd66ae42a64b6ab39e753d1acf9ab6dbe076e183fdca469b5b6d37"
+                                       },
+                   "grill-ship":  {
+                                      "source":  "local (built: post-completion blunt artifact critique; reverse of grilling — from grilling\u0027s design-tree/rounds pattern)",
+                                      "sourceType":  "local",
+                                      "skillPath":  "skills/grill-ship/SKILL.md",
+                                      "computedHash":  "1e9f9dd6ef4c90a0831a449db2d4630d011813a58ca857eea9f266ee77c463f5",
+                                      "importHash":  "1cb1e3283a10b809bb8b85dd41581f040be5a800d0cf874a02345bf79d65fbbc"
+                                  },
+                   "feasibility-study":  {
+                                             "source":  "local (built: go/no-go idea evaluation, verdict-first BUILD/EXTEND/WONTFIX; from dungnotnull feasibility-study concept)",
+                                             "sourceType":  "local",
+                                             "skillPath":  "skills/feasibility-study/SKILL.md",
+                                             "computedHash":  "7fc3fc63b2c6b1ebc204f8b7e57c46c62bc5dc3f6d9ac20ac15d50c8f7679509",
+                                             "importHash":  "cb0852f85d2148c7e8a0d754f6152db48c3484443a9d366344c5ce97e716d5f4"
+                                         },
+                   "free-gpu-models":  {
+                                           "source":  "local (built: free-tier GPU (Kaggle/Colab) provisioning + local model exposure; from NVIDIA/nvidia-kaggle + MurphyLo/colab-cli concepts)",
+                                           "sourceType":  "local",
+                                           "skillPath":  "skills/free-gpu-models/SKILL.md",
+                                           "computedHash":  "ced4e48a234efab275bd6cce9600d02c4441cf0cc6b9d16b3d3f94f35a1472e8",
+                                           "importHash":  "106526d22cff8a962b56bb6cfeefe861ffc119f54ef8f48d0624156edd6c9025"
+                                       },
+                   "mock-data":  {
+                                     "source":  "local (built: schema-inferred seeded synthetic data generation; from Bhanunamikaze/AI-Dataset-Generator concept, scoped to testing/demos)",
+                                     "sourceType":  "local",
+                                     "skillPath":  "skills/mock-data/SKILL.md",
+                                     "computedHash":  "af5fce7b363b45519d46593ce4d754413b99bf8a901251c1048c5d72e4ae7e79",
+                                     "importHash":  "24423c5a5bd0eea880ad1f1ad2a8dd35991458249bbc5799dd89b8db80571be2"
+                                 },
+                   "manim-video":  {
+                                       "source":  "local (built: bounded-outline Manim authoring + frame verification + HTML embedding; from Yusuke710/manim-skill + ECC manim-video concepts)",
+                                       "sourceType":  "local",
+                                       "skillPath":  "skills/manim-video/SKILL.md",
+                                       "computedHash":  "8d03fd65afb56069401b09e283a1ca884e22b3107977ded6b1a69cab380c5d04",
+                                       "importHash":  "ce8bbee361a1bcf399e4efabbc9993cda38ddde8a018681ccf05c9d66a5ee05b"
+                                   },
+                   "interactive-web-objects":  {
+                                                   "source":  "local (built: interaction-contract-driven canvas/p5.js/three.js objects; from CloudAI-X/threejs-skills + hermes-agent p5js concepts)",
+                                                   "sourceType":  "local",
+                                                   "skillPath":  "skills/interactive-web-objects/SKILL.md",
+                                                   "computedHash":  "757046a75d93b8ed6f31787e72bad77a4eed15553e354b029134cc686c87726d",
+                                                   "importHash":  "13192a5179c842a5d275be623815557afc02317f7521fcaa1ea652f6c45911aa"
+                                               },
+                   "api-contract":  {
+                                        "source":  "local (built: OpenAPI-first Python↔TS contract — spec as truth, typed TS client gen, backend-vs-spec drift verdicts; closes the cross-language seam gap)",
+                                        "sourceType":  "local",
+                                        "skillPath":  "skills/api-contract/SKILL.md",
+                                        "computedHash":  "a43d676750c77ab3cc163a5181bb4d6d37c4956294aba23fac835beadbe2c3e4",
+                                        "importHash":  "1e92f8409d3b604974a9d3a4bce9c6387cdade510d82f14e01eac5f8959b251f"
+                                    },
+                   "scaffold-fullstack":  {
+                                              "source":  "local (built: repo-from-zero bootstrap — uv backend + bun/pnpm frontend, separated dirs, justfile orchestration, gitignore/VS Code per-language settings, verified boot; coexistence-by-separation principle)",
+                                              "sourceType":  "local",
+                                              "skillPath":  "skills/scaffold-fullstack/SKILL.md",
+                                              "computedHash":  "59dc417ef559b1a8786e657bc6b66315a4a3ca41bd6885a50266ffae2dff1a99",
+                                              "importHash":  "fa51039f314be91c1ae4e29cceeae06f492a3fb718a175368ed4af30b53f416b"
+                                          },
+                   "skill-planner":  {
+                                         "source":  "local (built: create-vs-extend decision gate before /skill-creator — inventory scan via scripts/audit-skills.ps1, overlap classification, handoff brief; inspired by luongnv89/asm find-me-skills + skill-creator should-this-exist gate)",
+                                         "sourceType":  "local",
+                                         "skillPath":  "skills/skill-planner/SKILL.md",
+                                         "computedHash":  "8fdc90f2a3d93db3d28f539c3ccb9ad44ed525c0c9122cedfba3ad13cbf94f4e",
+                                         "importHash":  "a33bca634105b0a64133cb307580d10d60692c1e3cfeb14dbc1a27d0bdfcaee8"
+                                     },
+                   "skill-arbiter":  {
+                                         "source":  "local (built: self-improvement signal faucet during real work — capture to .scratch/skill-candidates/ ledger, triage IMPROVE-NOW/CANDIDATE/PLANNER/DROP, audit-gated small local edits with hash+sync; adapted from OpenSpace evolve-in-real-tasks + SkillAdam measured changes + skills-janitor value assessment + SkillEvaluator tiered evidence)",
+                                         "sourceType":  "local",
+                                         "skillPath":  "skills/skill-arbiter/SKILL.md",
+                                         "computedHash":  "d388385baa213ce49afd0775654ce536823d52c9c695c301820bdf8dbe00b1cd",
+                                         "importHash":  "aeb681d7fc3fdb7ff4eb3825bb77d68a797b06e359d4107eec6555e50a5af66a"
+                                     },
+                   "ci-cd":  {
+                                 "source":  "local (built: automated pipeline authoring — push → build → test → deploy calling existing justfile recipes, platform secret store only, proven by one green run + responding URL; planner CREATE NEW verdict, companion to /ship-it\u0027s one-time deploy; closes the documented deployment-automation gap in docs/agents/skills.md rule 6)",
+                                 "sourceType":  "local",
+                                 "skillPath":  "skills/ci-cd/SKILL.md",
+                                 "computedHash":  "41a7ec04e156947e28808baf43ca38152a7df21b38e8fcc190f11d45a8cbe9e1",
+                                 "importHash":  "577f517a35ce146a5328fd01cc5f7c08b22d7e7b1197239ee42468a481573b95"
+                             },
+                   "monitoring":  {
+                                      "source":  "local (built: post-deploy observability sensors — error tracking + uptime + alerts, free-tier first, proven by test-error event ID + green uptime check; planner CREATE NEW verdict, the sensor layer after /ship-it go-live; feeds /investigate-first)",
+                                      "sourceType":  "local",
+                                      "skillPath":  "skills/monitoring/SKILL.md",
+                                      "computedHash":  "689b339a792c80b22f9f09bd275ccd8b5d141b6191cffabdbb6f9d46d964e99c",
+                                      "importHash":  "b0662147cb0dd32e2be327e09f6568aefe32d848e784e58d56b1d565b2c3081a"
+                                  },
+                   "database-design":  {
+                                           "source":  "local (built: system-analyst database design — access-pattern interview first, conceptual ER + physical schema proven by real queries per pattern; planner CREATE NEW verdict, consumes /domain-modeling glossary, hands DDL to /migration, ER to /diagram-design, mapping to /api-contract; physical schema stays out of the locked glossary skill by its own rule)",
+                                           "sourceType":  "local",
+                                           "skillPath":  "skills/database-design/SKILL.md",
+                                           "computedHash":  "b954bca86b5864d5bf6a608586dc2488a7f0b493c53a95faf8a5b54d751f7d90",
+                                           "importHash":  "9bf5fbb87e375dd6507b4e61d9f02f66bfb059ee4324675602bb399041183ea2"
+                                       },
+                   "data-pipeline":  {
+                                         "source":  "local (built: data-engineer pipeline design + build — edge contracts (shape/frequency/volume/SLA), batch-vs-streaming + ETL-vs-ELT with written reasons, idempotent observable stages, end-to-end proof in = out + no-op rerun; planner CREATE NEW verdict, hands flow spec to /archify dataflow renderer and shape changes to /migration)",
+                                         "sourceType":  "local",
+                                         "skillPath":  "skills/data-pipeline/SKILL.md",
+                                         "computedHash":  "462602dd6b6619e6c94abc6c68cca84668a6e4cf2217e6f526a6b8c86f2c9c57",
+                                         "importHash":  "08421a4b5cbcd9ef691c81d1da029401a4307eb135f5a812c118da4a8236779c"
+                                     },
+                   "code-style":  {
+                                      "source":  "local (built: coding-standards author + per-language idiom loader — writes/refreshes CONVENTIONS.md (naming, OOP structure, type hints, docstrings, decorators, async, errors, immutability, test style, code smells), loads references/python.md and references/typescript.md while writing, wires ruff/mypy + eslint/tsc into just check; planner CREATE NEW verdict, feeds /code-review\u0027s Standards axis and pairs with /implement; extended 2026-09 with affaan-m/ECC coding-standards delta: KISS/DRY/YAGNI principles, immutability defaults, code-smell pass, AAA tests, verb-noun naming, JSDoc @example, perf guardrails)",
+                                      "sourceType":  "local",
+                                      "skillPath":  "skills/code-style/SKILL.md",
+                                      "computedHash":  "211560537d15e58c9b1d20704954842ff3cbd863ac22d9dd6ea5dd307c96890e",
+                                      "importHash":  "e5d420599d94398b962800eef17a1d537e8160f6bc617e6d3f11f5c086220b40"
+                                  },
+                   "prd-template":  {
+                                        "source":  "local (built: PRD companion to upstream-locked /to-spec — picks Lean/Comprehensive/Amazon PR-FAQ/Google template by size+audience, fills only from grill/to-spec/ADR output, review checklist, publishes .scratch/\u003cfeature\u003e/prd.md or a Plane page via /pm-planner; planner COMPANION verdict 2026-09 from slgoodrich/agents prd-templates, adapted to the local-first hub)",
+                                        "sourceType":  "local",
+                                        "skillPath":  "skills/prd-template/SKILL.md",
+                                        "computedHash":  "3d7b337f4015df0f9039b5eb5e8f3a6761e77d6bdca1c99a5816f61c3c6b782f",
+                                        "importHash":  "355a786c64c1973c5f882fb6c9d4237a921869a791f24fa0a95d01276a3efa8d"
+                                    },
+                   "review-metrics":  {
+                                          "source":  "local (built: delivery-review metrics companion — records review-latency (branch first-commit → first /code-review verdict, from git log) + escape-ratio (gate-caught ÷ confirmed-escaped with /monitoring event ID) as append-only blocks in ticket files, reports median on request; planner COMPANION verdict 2026-09-15 (anchor: upstream-locked /code-review; not EXTEND because locked, not merged into /monitoring because different trigger family) from .scratch/skill-candidates/review-metrics-lead-lag.md; wired into flow.md spine + specialist table; awaits /skill-doctor grading from real use)",
+                                          "sourceType":  "local",
+                                          "skillPath":  "skills/review-metrics/SKILL.md",
+                                          "computedHash":  "64cd3ac8b0c41411e67fbcb3277025ef047e67ac29620d93f35a9ada56069f9c",
+                                          "importHash":  "7cc8cd1464724de1b12a6125c4b88ced5616d6cd64668adcf85f2ffd8c14044d"
+                                      },
+                   "skill-optimize":  {
+                                          "source":  "local (built: bounded improve-validate loop for LOCAL skills — one evidence-backed edit per cycle, accepted only when SkillEvaluator gates improve (Tier 1 keyless; Tier 2/3 ต้องยืนยันโควตา); planner CREATE NEW companion verdict 2026-09-15 (anchor: upstream-locked /skill-creator; SkillOpt arXiv:2605.23904 adapted) from .scratch/skill-candidates/skillopt-eval-loop.md; family decision: SkillEvaluator adopted as tool, SkillHone DROPed (would duplicate meta-loop roles); wired into flow.md meta loop; awaits /skill-doctor grading) (extended 2026-09-21 v1.1: SkillAdam arXiv:2609.08944 acceptance discipline)",
+                                          "sourceType":  "local",
+                                          "skillPath":  "skills/skill-optimize/SKILL.md",
+                                          "computedHash":  "e2205540f2a91537b65e15aa03b4d2475431c1ec023203709a8f97d379875e8d",
+                                          "importHash":  "19ecf315ef717547669aa2263164946cf1059b28dca0acb2580730cc2d7ae79a"
+                                      },
+                   "typesafe-ai":  {
+                                       "source":  "typesafe-ai/skills",
+                                       "sourceType":  "github",
+                                       "skillPath":  "skills/typesafe-ai/SKILL.md",
+                                       "computedHash":  "71ea90d7906c6554c4f4c460ef7361b2d26f59116ccdae986dc6d997b9389f52"
+                                   },
+                   "reverse-engineer-anything":  {
+                                                     "source":  "morluto/rea",
+                                                     "sourceType":  "github",
+                                                     "skillPath":  ".agents/skills/reverse-engineer-anything/SKILL.md",
+                                                     "computedHash":  "fef2a1aab68b9741c65119fbce7b70427591e9017333e12a3c1eaa3c08d47643",
+                                                     "importHash":  "94fdf0cb5ac1f480f86ac81a2b581115ef9a4ee614d7f28b2041055f10662f21"
+                                                 },
+                   "remotion":  {
+                                    "source":  "remotion-dev/remotion",
+                                    "sourceType":  "github",
+                                    "skillPath":  "skills/remotion/SKILL.md",
+                                    "computedHash":  "3a243606e6e9c47be35c8b9c5ce3f99db43ad08919144e843efc05ea58eecf88",
+                                    "importHash":  ""
+                                },
+                   "hyperframes":  {
+                                       "source":  "heygen-com/hyperframes",
+                                       "sourceType":  "github",
+                                       "skillPath":  "skills/hyperframes/SKILL.md",
+                                       "computedHash":  "3cb51ee578ea1e443f4de1a036cddb9fe4d6730916853334c08881be3a273826",
+                                       "importHash":  ""
+                                   },
+                   "gsap":  {
+                                "source":  "greensock/gsap-skills",
+                                "sourceType":  "github",
+                                "skillPath":  "skills/gsap-core/SKILL.md",
+                                "computedHash":  "a3f4713b3814a2ae94dc7ddc4eb463dcce2051345524166f84854a57c08955ac",
+                                "importHash":  ""
+                            },
+                   "autoharness":  {
+                                       "source":  "tigerless-labs/autoharness",
+                                       "sourceType":  "github",
+                                       "skillPath":  "skills/learn/SKILL.md",
+                                       "computedHash":  "9e3afb87cbb1c40718338a7ef8e9a8c601bd2e3a308b0c8f1e47cc24015fd088",
+                                       "importHash":  ""
+                                   },
+                   "pr-lens":  {
+                                   "source":  "coldteadotai/pr-lens",
+                                   "sourceType":  "github",
+                                   "skillPath":  "packages/agent-skill/SKILL.md",
+                                   "computedHash":  "41d306378e7d24e0296246c2451011b68748e2fd7c1e2d2bb950c52ecf24da63",
+                                   "importHash":  ""
+                               },
+                   "motion-design":  {
+                                         "source":  "howseen-ai/claude-motion-design",
+                                         "sourceType":  "github",
+                                         "skillPath":  "skill/motion-design/SKILL.md",
+                                         "computedHash":  "f53208a8fc2bd72bb4d2f90dbf5811b2246e641e0f81800bf058c801c9534c94",
+                                         "importHash":  ""
+                                     },
+                   "context-mode":  {
+                                        "source":  "mksglu/context-mode",
+                                        "sourceType":  "github",
+                                        "skillPath":  "skills/context-mode/SKILL.md",
+                                        "computedHash":  "a1ae362112abc49aeee974f5575ddfdeccd208d7e7374f858d72051b14885d82",
+                                        "importHash":  ""
+                                    },
+                   "poteto-mode":  {
+                                       "source":  "backnotprop/pstack",
+                                       "sourceType":  "github",
+                                       "skillPath":  "skills/poteto-mode/SKILL.md",
+                                       "computedHash":  "f407dc25892a5504cabb2f2910dab35abd4076a5712e431af89b97156c2e2a16",
+                                       "importHash":  ""
+                                   },
+                   "anti-slop":  {
+                                     "source":  "miqdadbadjuber/anti-slop",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/antislop/SKILL.md",
+                                     "computedHash":  "903f1208fc93770f19aa3d3138446b6c8ad90ee54cf7fa8ac9bfb1d3728684c0",
+                                     "importHash":  ""
+                                 },
+                   "browserskill":  {
+                                        "computedHash":  "60b41d441b1ab0f993af2bdc153e2e7db6862548ef89a372202c5073e4ad1ecd",
+                                        "source":  "local (built: 2026-10-13: real browser driving and authenticated session reuse via bsk CLI and extension; borrow-tab model for post-deploy smoke and anti-denial audits; from .scratch/skill-candidates/browserskill-real-browser.md)",
+                                        "sourceType":  "local",
+                                        "skillPath":  "skills/browserskill/SKILL.md",
+                                        "importHash":  "e1a3c173ce00ab0667f25da3213fc8002b90e8aa20ca2696d6e8381071ec3690"
+                                    },
+                   "data-designer":  {
+                                         "computedHash":  "08104e8c6252d1b51a1fedbf2a5f85eb1ea1bb07b33311ac1b43be5e9bbcc0c9",
+                                         "source":  "local (built: 2026-10-13: synthetic enterprise dataset and corpus generator with statistical distributions, correlations, and validators; NVIDIA NeMo DataDesigner integration; from .scratch/skill-candidates/datadesigner-mock-corpus.md)",
+                                         "sourceType":  "local",
+                                         "skillPath":  "skills/data-designer/SKILL.md",
+                                         "importHash":  "18b60c87aa8ec9143ac0cb9f240475369bd98869408ef34b048f321f76f6aaee"
+                                     },
+                   "design-explorer":  {
+                                           "computedHash":  "e8f65eb81a7c65b709d0766d71769c260c7870974092af3030a507aab7569e96",
+                                           "source":  "local (built: 2026-10-13: multi-spec design exploration companion to /design-md implementing ADR-0010 and arXiv:2609.15078 typicality scoring and standalone HTML previews; from .scratch/skill-candidates/design-explorer.md)",
+                                           "sourceType":  "local",
+                                           "skillPath":  "skills/design-explorer/SKILL.md",
+                                           "importHash":  "be2c72ab145d0cc0e6f94db152f42a5897e0a0faeea7ddb5e603599845fdf577"
+                                       },
+                   "skill-evaluator":  {
+                                           "computedHash":  "d076ab09ef3290ea85abb4c514f751fbd61f348e274cb001aa8c37441f5df0ca",
+                                           "source":  "local (built: 2026-10-13: 3-tier validation and benchmarking suite for agent skills using NVIDIA SkillEvaluator; Tier 1 deterministic gates, Tier 2 semantic overlap, Tier 3 live benchmarks; from .scratch/skill-candidates/skillevaluator-tiers.md)",
+                                           "sourceType":  "local",
+                                           "skillPath":  "skills/skill-evaluator/SKILL.md",
+                                           "importHash":  "8486866eba8985b1cc45b9e68563f6837f02db56b32c179f60f917391730be62"
+                                       },
+                   "skillhone":  {
+                                     "computedHash":  "d876b6511e01d174033fd43a694cf3cae491c81c062572c0d14c16d565716698",
+                                     "source":  "local (built: 2026-10-13: autonomous agent skill self-repair and regression testing loop based on Tencent SkillHone arXiv:2606.08671; from .scratch/skill-candidates/skillhone-evolution.md)",
+                                     "sourceType":  "local",
+                                     "skillPath":  "skills/skillhone/SKILL.md",
+                                     "importHash":  "38eedb9a95a49ec6960666670c2ec16e344a054deafa089d9b54207fb1362093"
+                                 },
+                   "skillnet":  {
+                                    "computedHash":  "808cc63897637baad650604fc98b7a968bfc8516da7998d1a8029ccfc1769e85",
+                                    "source":  "local (built: 2026-10-13: open agent skill discovery, search, evaluation and composition engine based on zjunlp/SkillNet arXiv:2603.04448; enforces search-before-build; from .scratch/skill-candidates/skillnet-discovery.md)",
+                                    "sourceType":  "local",
+                                    "skillPath":  "skills/skillnet/SKILL.md",
+                                    "importHash":  "62cc9b3c570bcdc500e79d3e1fa3a52467659893e2eaa331f9b103fe79000df9"
+                                },
+                   "skillspector":  {
+                                        "computedHash":  "3b3f94ed2e8ecdf4103687b647a775a43d54c67f530830d5712168f99f281d6d",
+                                        "source":  "local (built: 2026-10-13: security scanner and supply-chain auditor for AI agent skills using NVIDIA skillspector; AST/regex/YARA static analysis with --no-llm offline execution and category triage; from .scratch/skill-candidates/skillspector-security-scan.md)",
+                                        "sourceType":  "local",
+                                        "skillPath":  "skills/skillspector/SKILL.md",
+                                        "importHash":  "1dca78863eccaaf9f90614e63f2b5416876f52620202c7d17678b141a014a47a"
+                                    },
+                   "webgl-experience":  {
+                                            "source":  "local (built: real-time WebGL/WebGL2 full-screen shader, 3D scenes and generative visuals)",
+                                            "sourceType":  "local",
+                                            "skillPath":  "skills/webgl-experience/SKILL.md",
+                                            "computedHash":  "afc943af0c7e497bf5231208636275cbd39da5fa4586da363a05e95371ebb37a",
+                                            "importHash":  ""
+                                        },
+                   "webgl-particle-galaxy":  {
+                                                 "source":  "local (built: real-time GPU particle galaxy, orbiting vertex shader point clouds)",
+                                                 "sourceType":  "local",
+                                                 "skillPath":  "skills/webgl-particle-galaxy/SKILL.md",
+                                                 "computedHash":  "855ccd2ab8a93300ac57ade0ee4b70aecc86e0e797ec6ad74723944e1ba1fbad",
+                                                 "importHash":  ""
+                                             },
+                   "finishing-a-development-branch":  {
+                                                          "computedHash":  "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+                                                          "source":  "obra/superpowers",
+                                                          "sourceType":  "github",
+                                                          "skillPath":  "skills/finishing-a-development-branch/SKILL.md",
+                                                          "importHash":  ""
+                                                      },
+                   "transitions-ui-generation":  {
+                                                     "computedHash":  "93061c4d1a609a22ef679a1c5064b2cd9c3bde65411e34e955c435f7261effef",
+                                                     "source":  "Jakubantalik/transitions.dev",
+                                                     "sourceType":  "github",
+                                                     "skillPath":  "skills/transitions-ui-generation/SKILL.md",
+                                                     "importHash":  ""
+                                                 },
+                   "requesting-code-review":  {
+                                                  "computedHash":  "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
+                                                  "source":  "obra/superpowers",
+                                                  "sourceType":  "github",
+                                                  "skillPath":  "skills/requesting-code-review/SKILL.md",
+                                                  "importHash":  ""
+                                              },
+                   "transitions-polish":  {
+                                              "computedHash":  "cd7ca4bb79acb72fa1951bb79f5251570e2ef9d290c0ddf9a83a097067226cfa",
+                                              "source":  "Jakubantalik/transitions.dev",
+                                              "sourceType":  "github",
+                                              "skillPath":  "skills/transitions-polish/SKILL.md",
+                                              "importHash":  ""
+                                          },
+                   "using-git-worktrees":  {
+                                               "computedHash":  "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+                                               "source":  "obra/superpowers",
+                                               "sourceType":  "github",
+                                               "skillPath":  "skills/using-git-worktrees/SKILL.md",
+                                               "importHash":  ""
+                                           },
+                   "ppt-master":  {
+                                      "computedHash":  "e1c4123aaa992a221f02c9bf81d21c4f7c3abc1e11eeebb43ae2e47823464082",
+                                      "source":  "hugohe3/ppt-master",
+                                      "sourceType":  "github",
+                                      "skillPath":  "skills/ppt-master/SKILL.md",
+                                      "importHash":  ""
+                                  },
+                   "answer-me-with-html":  {
+                                               "computedHash":  "353f379ea4904c7e6b2138874720186082c074208e32fc1b19f455550f543d8c",
+                                               "source":  "QingYunA/answer-me-with-html",
+                                               "sourceType":  "github",
+                                               "skillPath":  "skills/answer-me-with-html/SKILL.md",
+                                               "importHash":  ""
+                                           },
+                   "reanimate":  {
+                                     "computedHash":  "dec8499d220918750de9d5ca14162f7fe5bf96edda84dbf851355545e1adedc8",
+                                     "source":  "NiazMorshed2007/reanimate",
+                                     "sourceType":  "github",
+                                     "skillPath":  "skills/reanimate/SKILL.md",
+                                     "importHash":  ""
+                                 },
+                   "using-superpowers":  {
+                                             "computedHash":  "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
+                                             "source":  "obra/superpowers",
+                                             "sourceType":  "github",
+                                             "skillPath":  "skills/using-superpowers/SKILL.md",
+                                             "importHash":  ""
+                                         },
+                   "transitions-dev":  {
+                                           "computedHash":  "558bc963743b1bac98529617d22c4266a0602eadcb0797848c5a82906e1d7608",
+                                           "source":  "Jakubantalik/transitions.dev",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/transitions-dev/SKILL.md",
+                                           "importHash":  ""
+                                       },
+                   "writing-plans":  {
+                                         "computedHash":  "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
+                                         "source":  "obra/superpowers",
+                                         "sourceType":  "github",
+                                         "skillPath":  "skills/writing-plans/SKILL.md",
+                                         "importHash":  ""
+                                     },
+                   "stack-diagram":  {
+                                         "computedHash":  "991a4c80e942200441ad80f3e06440af0e33ab35b6ea20a0573d40c6adcd05a9",
+                                         "source":  "caru-ini/stack-diagram",
+                                         "sourceType":  "github",
+                                         "skillPath":  "skills/stack-diagram/SKILL.md",
+                                         "importHash":  ""
+                                     },
+                   "diagnosing-superpowers":  {
+                                                  "computedHash":  "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
+                                                  "source":  "obra/superpowers",
+                                                  "sourceType":  "github",
+                                                  "skillPath":  "skills/diagnosing-superpowers/SKILL.md",
+                                                  "importHash":  ""
+                                              },
+                   "verification-before-completion":  {
+                                                          "computedHash":  "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+                                                          "source":  "obra/superpowers",
+                                                          "sourceType":  "github",
+                                                          "skillPath":  "skills/verification-before-completion/SKILL.md",
+                                                          "importHash":  ""
+                                                      },
+                   "work2skill":  {
+                                      "computedHash":  "5608f65863e69c21621f6401d7f10235f9c6b49bddbac7b0ab8618073c85aaa6",
+                                      "source":  "china-qijizhifeng/Work2Skill",
+                                      "sourceType":  "github",
+                                      "skillPath":  "AgenticSkillInduction/skills/skill-creator/SKILL.md",
+                                      "importHash":  "3cbfb21a2e4cee9b15ff128fb3516cf10ec628ee45cf76c983a6c3ac1a8bbed0"
+                                  },
+                   "rea-reconstruction-companion":  {
+                                                        "computedHash":  "86156ccd868fb8b5529dac1f1a9318b3daa8fa33050643e8b55ce76a5136e891",
+                                                        "source":  "ShadowSwaps/REA-Reconstruction-Companion",
+                                                        "sourceType":  "github",
+                                                        "skillPath":  "skills/rea-reconstruction-companion/SKILL.md",
+                                                        "importHash":  ""
+                                                    },
+                   "oil-ui":  {
+                                  "computedHash":  "4fac1a388396f002d04040d4327a8081a0daff77d8e0574b08b15e7e78392109",
+                                  "source":  "oil-oil/oil-ui",
+                                  "sourceType":  "github",
+                                  "skillPath":  "SKILL.md",
+                                  "importHash":  ""
+                              },
+                   "executing-plans":  {
+                                           "computedHash":  "deaf176fa179827e80f2ea3101db3ea90fdf562ebef340eba761e4687940f5f5",
+                                           "source":  "obra/superpowers",
+                                           "sourceType":  "github",
+                                           "skillPath":  "skills/executing-plans/SKILL.md",
+                                           "importHash":  ""
+                                       },
+                   "brainstorming":  {
+                                         "computedHash":  "2c9ca71f94886f9ca9f4aef055f7cafb3e1a9bdf3aeebf8f4cb547c69405d207",
+                                         "source":  "obra/superpowers",
+                                         "sourceType":  "github",
+                                         "skillPath":  "skills/brainstorming/SKILL.md",
+                                         "importHash":  ""
+                                     },
+                   "test-driven-development":  {
+                                                   "computedHash":  "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
+                                                   "source":  "obra/superpowers",
+                                                   "sourceType":  "github",
+                                                   "skillPath":  "skills/test-driven-development/SKILL.md",
+                                                   "importHash":  ""
+                                               },
+                   "dispatching-parallel-agents":  {
+                                                       "computedHash":  "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+                                                       "source":  "obra/superpowers",
+                                                       "sourceType":  "github",
+                                                       "skillPath":  "skills/dispatching-parallel-agents/SKILL.md",
+                                                       "importHash":  ""
+                                                   },
+                   "subagent-driven-development":  {
+                                                       "computedHash":  "1baf70e307bde682c462513c86116333f1f066168c6710f45145bf5f0b00828d",
+                                                       "source":  "obra/superpowers",
+                                                       "sourceType":  "github",
+                                                       "skillPath":  "skills/subagent-driven-development/SKILL.md",
+                                                       "importHash":  ""
+                                                   },
+                   "transitions-agent":  {
+                                             "computedHash":  "12d54f18a6586cc090feed7d0bb907ffae8ca4f0af78d8c92e9a5d1713761d87",
+                                             "source":  "Jakubantalik/transitions.dev",
+                                             "sourceType":  "github",
+                                             "skillPath":  "agent/skill/SKILL.md",
+                                             "importHash":  ""
+                                         },
+                   "unslop":  {
+                                  "computedHash":  "9e49b2ff7643fa09729e8665890a18f6bfa58a82e6fcbba330da38136ccdc393",
+                                  "source":  "heydamir/unslop",
+                                  "sourceType":  "github",
+                                  "skillPath":  "skills/unslop/SKILL.md",
+                                  "importHash":  ""
+                              },
+                   "writing-skills":  {
+                                          "computedHash":  "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
+                                          "source":  "obra/superpowers",
+                                          "sourceType":  "github",
+                                          "skillPath":  "skills/writing-skills/SKILL.md",
+                                          "importHash":  ""
+                                      },
+                   "systematic-debugging":  {
+                                                "computedHash":  "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+                                                "source":  "obra/superpowers",
+                                                "sourceType":  "github",
+                                                "skillPath":  "skills/systematic-debugging/SKILL.md",
+                                                "importHash":  ""
+                                            },
+                   "receiving-code-review":  {
+                                                 "computedHash":  "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+                                                 "source":  "obra/superpowers",
+                                                 "sourceType":  "github",
+                                                 "skillPath":  "skills/receiving-code-review/SKILL.md",
+                                                 "importHash":  ""
+                                             },
+                   "workrecorder-context":  {
+                                                "computedHash":  "0920cbec5b326a99ef775ed4c7892dd69a47cc4cf52a5e561cd3670b6459cacf",
+                                                "source":  "china-qijizhifeng/Work2Skill",
+                                                "sourceType":  "github",
+                                                "skillPath":  "WorkRecorder/apps/skill/SKILL.md",
+                                                "importHash":  ""
+                                            },
+                   "humanizer":  {
+                                     "computedHash":  "0612f1dfb1672b0ea9b97e139bf1f06cabe98d8b27424fe8ff01e1fb4cc99cad",
+                                     "source":  "blader/humanizer",
+                                     "sourceType":  "github",
+                                     "skillPath":  "SKILL.md",
+                                     "importHash":  ""
+                                 },
+                   "shadcn":  {
+                                  "computedHash":  "93951e5e83f616a3e046491c00d770bd54c0a64164706cd1191822a233d27592",
+                                  "source":  "shadcn-ui/ui",
+                                  "sourceType":  "github",
+                                  "skillPath":  "skills/shadcn/SKILL.md",
+                                  "importHash":  ""
+                              },
+                   "migrate-radix-to-base":  {
+                                                 "computedHash":  "64c879f6f1eab0decc306ca52ad32d41327c05c4d2fb7e708335e956c61dadf8",
+                                                 "source":  "shadcn-ui/ui",
+                                                 "sourceType":  "github",
+                                                 "skillPath":  "skills/migrate-radix-to-base/SKILL.md",
+                                                 "importHash":  ""
+                                             },
+                   "scroll-craft":  {
+                                        "source":  "nateherkai/scroll-craft",
+                                        "sourceType":  "github",
+                                        "skillPath":  "plugins/nateherk-design/skills/scroll-craft/SKILL.md",
+                                        "computedHash":  "6e798bb51c3dcbe4f35f098dcdd3cdd20d08e538a33993bcae909c9fd0a500a1",
+                                        "importHash":  ""
+                                    }
+               }
+}

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+dist/
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary & scratch files
+.scratch/
+*.zip
+*.log
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
